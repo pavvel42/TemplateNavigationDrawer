@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation Drawer Example</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="firebase_login">Firebase Login</string>
+    <string name="login_with_google">Login with Google</string>
+    <!--    <string name=""> </string>-->
+
+    <!--    getString(R.string)-->
+
+</resources>
